@@ -7,7 +7,7 @@
 pkgname=Debugtron
 pkgver=0.5.0
 pkgrel=1
-pkgdesc=""
+pkgdesc="Debug in-production Electron based app"
 arch=("x86_64")
 url="https://github.com/bytedance/debugtron"
 license=('MIT')
